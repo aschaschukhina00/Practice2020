@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\(Practice2) Archery\(Practice2) Archery\bin\Debug\(Practice2) Archery.exe.config
+C:\Users\USER\source\repos\(Practice2) Archery\(Practice2) Archery\bin\Debug\(Practice2) Archery.exe
+C:\Users\USER\source\repos\(Practice2) Archery\(Practice2) Archery\bin\Debug\(Practice2) Archery.pdb
+C:\Users\USER\source\repos\(Practice2) Archery\(Practice2) Archery\obj\Debug\(Practice2) Archery.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\(Practice2) Archery\(Practice2) Archery\obj\Debug\(Practice2) Archery.exe
+C:\Users\USER\source\repos\(Practice2) Archery\(Practice2) Archery\obj\Debug\(Practice2) Archery.pdb
