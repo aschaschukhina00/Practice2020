@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\(Practice5)402b\(Practice5)402b\bin\Debug\(Practice5)402b.exe.config
+C:\Users\USER\source\repos\(Practice5)402b\(Practice5)402b\bin\Debug\(Practice5)402b.exe
+C:\Users\USER\source\repos\(Practice5)402b\(Practice5)402b\bin\Debug\(Practice5)402b.pdb
+C:\Users\USER\source\repos\(Practice5)402b\(Practice5)402b\obj\Debug\(Practice5)402b.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\(Practice5)402b\(Practice5)402b\obj\Debug\(Practice5)402b.exe
+C:\Users\USER\source\repos\(Practice5)402b\(Practice5)402b\obj\Debug\(Practice5)402b.pdb

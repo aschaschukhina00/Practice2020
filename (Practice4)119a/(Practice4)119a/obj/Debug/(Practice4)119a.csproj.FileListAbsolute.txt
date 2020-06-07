@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\(Practice4)119a\(Practice4)119a\bin\Debug\(Practice4)119a.exe.config
+C:\Users\USER\source\repos\(Practice4)119a\(Practice4)119a\bin\Debug\(Practice4)119a.exe
+C:\Users\USER\source\repos\(Practice4)119a\(Practice4)119a\bin\Debug\(Practice4)119a.pdb
+C:\Users\USER\source\repos\(Practice4)119a\(Practice4)119a\obj\Debug\(Practice4)119a.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\(Practice4)119a\(Practice4)119a\obj\Debug\(Practice4)119a.exe
+C:\Users\USER\source\repos\(Practice4)119a\(Practice4)119a\obj\Debug\(Practice4)119a.pdb

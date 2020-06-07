@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\(Practice12)1,11\(Practice12)1,11\bin\Debug\(Practice12)1,11.exe.config
+C:\Users\USER\source\repos\(Practice12)1,11\(Practice12)1,11\bin\Debug\(Practice12)1,11.exe
+C:\Users\USER\source\repos\(Practice12)1,11\(Practice12)1,11\bin\Debug\(Practice12)1,11.pdb
+C:\Users\USER\source\repos\(Practice12)1,11\(Practice12)1,11\obj\Debug\(Practice12)1,11.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\(Practice12)1,11\(Practice12)1,11\obj\Debug\(Practice12)1,11.exe
+C:\Users\USER\source\repos\(Practice12)1,11\(Practice12)1,11\obj\Debug\(Practice12)1,11.pdb
