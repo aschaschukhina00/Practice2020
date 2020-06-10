@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\(Practice1) Letter\(Practice1) Letter\bin\Debug\(Practice1) Letter.exe.config
+C:\Users\USER\source\repos\(Practice1) Letter\(Practice1) Letter\bin\Debug\(Practice1) Letter.exe
+C:\Users\USER\source\repos\(Practice1) Letter\(Practice1) Letter\bin\Debug\(Practice1) Letter.pdb
+C:\Users\USER\source\repos\(Practice1) Letter\(Practice1) Letter\obj\Debug\(Practice1) Letter.exe
+C:\Users\USER\source\repos\(Practice1) Letter\(Practice1) Letter\obj\Debug\(Practice1) Letter.pdb
+C:\Users\USER\source\repos\(Practice1) Letter\(Practice1) Letter\obj\Debug\(Practice1) Letter.csprojAssemblyReference.cache
