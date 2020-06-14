@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +12,7 @@ namespace _Practice6_7
         public static int size = 0;
         static void Main(string[] args)
         {
+            Console.WriteLine($"Программа для работы с последовательностью\n");
             double M;
             int N;
 
@@ -19,8 +20,8 @@ namespace _Practice6_7
             N = ReadNumberInt("Введите N (ожидаемое количество элементов в последовательности:",4,100);
             double[] aJ = new double[101];
             aJ[0] = ReadNumberDouble($"Введите а1 :", -100, 100);
-            aJ[1] = ReadNumberDouble($"Введите а1 :", -100, 100);
-            aJ[2] = ReadNumberDouble($"Введите а1 :", -100, 100);
+            aJ[1] = ReadNumberDouble($"Введите а2 :", -100, 100);
+            aJ[2] = ReadNumberDouble($"Введите а3 :", -100, 100);
 
             int cur = 2;
             MakeSequence(aJ[2], M, aJ, cur);
@@ -77,7 +78,7 @@ namespace _Practice6_7
             return value;
         }
 
-
+        //Рекурсивное вычисление следующего члена последовательности
         static double MakeSequence(double a, double M, double[] aJ, int cur)
         {
             if (Math.Abs(a) > M)
