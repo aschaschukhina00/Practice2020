@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +10,7 @@ namespace _Practice4_119a
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Вычисление бесконечной суммы заданной точности\n");
             double e = Input();
             double sum = Summ(e);
             Console.WriteLine("Ответ:" + sum);
@@ -35,9 +36,9 @@ namespace _Practice4_119a
             bool tr;
             do
             {
-                Console.WriteLine("Введите точность");
+                Console.WriteLine("Введите точность: ");
                 tr = double.TryParse(Console.ReadLine(), out e);
-                if (!tr && e<0)
+                if (!tr || e<=0)
                     Console.WriteLine("Ошибка! Введите положительное число");
 
             }
