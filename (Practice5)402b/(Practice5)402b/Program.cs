@@ -66,7 +66,7 @@ namespace _Practice5_402b
                 Console.Write("Введите n: ");
                 ok = Int32.TryParse(Console.ReadLine(), out n);
                 if (!ok || n < 2)
-                    Console.WriteLine("Ошибка! Введите натуральноe число, которое больше или равно 2");
+                    Console.WriteLine("Ошибка! Введите натуральноe число больше 1");
             } while (!ok || n < 2);
             return n;
         }
