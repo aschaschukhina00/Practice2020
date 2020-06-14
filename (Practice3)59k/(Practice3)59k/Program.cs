@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,12 +10,14 @@ namespace Practice3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Программа для определения принадлежности точки к заштрихованной области\n");
+
             double x, y;
             bool tr;
 
             do
             {
-                Console.WriteLine("Введите кординату Х");
+                Console.WriteLine("Введите координату Х: ");
                 tr = double.TryParse(Console.ReadLine(), out x);
                 if (!tr)
                     Console.WriteLine("Введено недопустимое значение");
@@ -25,7 +27,7 @@ namespace Practice3
 
             do
             {
-                Console.WriteLine("Введите координату Y");
+                Console.WriteLine("Введите координату Y: ");
                 tr = double.TryParse(Console.ReadLine(), out y);
                 if (!tr)
                     Console.WriteLine("Введено недопустимое значение");
@@ -53,4 +55,3 @@ namespace Practice3
         }
     }
 }
-
